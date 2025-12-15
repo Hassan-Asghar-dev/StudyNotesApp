@@ -1,4 +1,3 @@
-                                                                                         **  A Android Application**
 
 
 ✨ Features
